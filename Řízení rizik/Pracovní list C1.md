@@ -62,11 +62,17 @@ Hrozba => Riziko
 #### 4. Vyjmenujte a charakterizujte principy managementu rizik.
 
 ***Integrovaný*** => Rozpracovaný do všech částí organizace.
+
 ***Strukturovaný a vyčerpávající*** => Odštěpovaný podle úrovně řízení.
+
 ***Přízpůsobený potřebám*** => Každý styl je jiný, nesmí narušovat činnost.
+
 ***Kompletní*** => Měl by postihnotu všechny subjekty a součásti organizace, počítat s každou možností co může nastat.
+
 ***Dynamický*** => Schopnost rychlé reakce na změnu.
+
 ***Nejlépe dostupný*** => Pracuje s novými a aktuálními problémy, hrozbami ...
+
 ***Lidský a kulturní faktor*** => Zaměstnanec a kulturní znalosti zaměstnance je dáno, jak bude fungovat.
 ***Trvalé zlepšování*** => Reakce na změny, aktualizace a trvale je zlepšovat.
 
@@ -169,6 +175,7 @@ Hrozba => Riziko
 15. ZMÍRŇOVÁNÍ RIZIKA
 # Tajenka: **Enviromentální** rizika
 = Všechno co dopadá na životní prostředí a má vliv na život společnosti
+
 ![Křížovka](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/%C5%98%C3%ADzen%C3%AD%20rizik/image01.png)
 
 #### 8. Doplňte do obrázku místo managementu rizika v systému krizového managementu.
@@ -177,4 +184,5 @@ Hrozba => Riziko
 3. Organizace
 4. Management zásahu
 5. Kontrolní činnost
+   
 ![Místo managementu rizika](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/%C5%98%C3%ADzen%C3%AD%20rizik/image02.png)
