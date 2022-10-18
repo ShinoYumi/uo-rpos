@@ -17,6 +17,9 @@ Plánované předměty (v procesu)
 5. Řízení rizik (pracovní listy a vzory)
 6. Mezinárodní humanitární právo (literatura a tipy)
 
+Diplomová práce (tipy)
+
+
 Požadavek po čtenářích:
 - vytvořit "Issue" v případě špatné informace, chyby, překlepu v materiálech = vyřeším problém co nejdříve.
 - podílet se materiály na doplnění sběrníku.
