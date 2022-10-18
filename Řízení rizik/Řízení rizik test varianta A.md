@@ -7,12 +7,12 @@
 2.  Mezi hmotná aktiva patří ***lidé/nemovitosti/majetek/...***
 3. Usmrcení osoby je ***dopad*** nežádoucí události.
 4. Sklad nebezpečných látek představuje zdroj ***nebezpečí***.
-5. ***Nejistota***vyjadřuje pochynost.
-6. ***Expozice***vystavení aktiva působení faktorů prostředí nebo účinkům látky.
+5. ***Nejistota*** vyjadřuje pochynost.
+6. ***Expozice*** vystavení aktiva působení faktorů prostředí nebo účinkům látky.
 7. Slabina analyzovaného systému je označována jako **"zranitelnost"**.
    - Doplňte příklad: špatná měnová politika
 8. Zdroje ***vnitřních*** rizik se nalézají uvnitř subjektu.
-9. ***Aktiva***označují vše, co má pro organizaci či společnost hodnotu, která může být zmenšena působením nebezpečí.
+9. ***Aktiva*** označují vše, co má pro organizaci či společnost hodnotu, která může být zmenšena působením nebezpečí.
 10. ***Dopad*** představuje nepříznivý učínek nežádoucí události v daném místě a čase na chránená aktiva a zájmy.
 11. ***Domino efekt*** se rozumí možná eskalace událostí, kdy událost u jednoho objektu nebo zařízení může být příčinou vzniku události u jiného objektu či zařázení, čimž může dojít ke zvýšení pravděpodobnosti vzniku závažné havárie včetně zvýšení jejich dopadů.
 12. ***Hrozba*** je přirodní nebo člověkem podmíněný proces představující schopnost zdroje hrozby být aktivován a způsobit škoda.
@@ -39,4 +39,53 @@ Hrozba => Riziko
 - Tornádo/Povodeň/Živelná pohroma => zničení domu
 - Krádež kreditní karty => ztráta peněz z bankovního účtu
 - Stažení a instalce neznámého progamu => zavirování zařízení a případné následky (zničení hw, krádež osobních dat, zpomalení zařízení,...)
+
+#### 3. Zařaďte následující aktiva do kategorii aktiv hmotných a nehmotných.
+
+1. biodiverzita - ***nehmotné***
+2. hardware - ***hmotné***
+3. informace - ***nehmotné***
+4. jaderný reaktor - ***hmotné***
+5. know how - ***nehmotné***
+6. kvalita personálu - ***nehmotné***
+7. lidé - ***hmotné***
+8. morálka pracovníků - ***nehmotné***
+9. nemovitosti - ***hmotné***
+10. pásové vozidlo - ***hmotné***
+11. peníze - ***hmotné***
+12. předměty průmyslového práva - ***hmotné***
+13. software - ***nehmotné***
+14. technologické systémy - ***nehmotné***
+15. výrobní linka - ***hmotné***
+16. zdraví - ***nehmotné***
+
+#### 4. Vyjmenujte a charakterizujte principy managementu rizik.
+
+***Integrovaný*** => Rozpracovaný do všech částí organizace.
+***Strukturovaný a vyčerpávající*** => Odštěpovaný podle úrovně řízení.
+***Přízpůsobený potřebám*** => Každý styl je jiný, nesmí narušovat činnost.
+***Kompletní*** => Měl by postihnotu všechny subjekty a součásti organizace, počítat s každou možností co může nastat.
+***Dynamický*** => Schopnost rychlé reakce na změnu.
+***Nejlépe dostupný*** => Pracuje s novými a aktuálními problémy, hrozbami ...
+***Lidský a kulturní faktor*** => Zaměstnanec a kulturní znalosti zaměstnance je dáno, jak bude fungovat.
+***Trvalé zlepšování*** => Reakce na změny, aktualizace a trvale je zlepšovat.
+
+#### 5. Rozdělte níže uvedená opatření na technická a organizační.
+
+1. adaptace designu => 
+2. bezpečnostní zařízení => ***technická opatření***
+3. bioindikátory => ***technická opatření***
+4. doplňkové bezpečnostní prvky => ***technická opatření***
+5. normy => 
+6. organizace práce => 
+7. směrnice => 
+8. sprinklery => 
+9. standardy => 
+10. světelná signalizace => 
+11. teambuilding => 
+12. tvorba pracovních postupů => 
+13. výcvik zaměstnanců => 
+14. výstavba ochranných systémů => 
+15. výstražné systémy => 
+16. vzdělávání obyvatel => 
 
