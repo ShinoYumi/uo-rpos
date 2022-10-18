@@ -169,3 +169,4 @@ Hrozba => Riziko
 15. ZMÍRŇOVÁNÍ RIZIKA
 # Tajenka: **Enviromentální** rizika
 = Všechno co dopadá na životní prostředí a má vliv na život společnosti
+![Křížovka]()
