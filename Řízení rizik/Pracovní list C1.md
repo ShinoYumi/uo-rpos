@@ -63,7 +63,7 @@ Hrozba => Riziko
 
 ***Integrovaný*** => Rozpracovaný do všech částí organizace.
 
-***Strukturovaný a vyčerpávající*** => Odštěpovaný podle úrovně řízení.
+***Strukturovaný*** => Odštěpovaný podle úrovně řízení.
 
 ***Přízpůsobený potřebám*** => Každý styl je jiný, nesmí narušovat činnost.
 
