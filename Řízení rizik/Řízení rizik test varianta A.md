@@ -151,7 +151,7 @@ Hrozba => Riziko
 13. Osoba nebo organizace, která může mít vliv na rozhdnutí nebo činnost, může být jími ovlivňována nebo se může vnímat, že je rozhodnutím nebo činností ovlivňována.
 14. Systematické uplatňování politik, postupů a praktik managementu organizace při řešení úkolů týkajících se posuzování a ovládání rizik.
 15. Zmenšení rizika posloupnosti vývoje nežádoucí události působením na zdroj hrozby preventivní cestou snížením pravděpodobnosti jeho aktivace nebo dopadů již vzniklé nežádoucí události.
- # Odpověď tajenky
+ # Tajenka odpověďi
 1. BEZPEČNOST
 2. REFERENČNÍ ÚROVEŇ
 3. HAVÁRIE
@@ -169,4 +169,12 @@ Hrozba => Riziko
 15. ZMÍRŇOVÁNÍ RIZIKA
 # Tajenka: **Enviromentální** rizika
 = Všechno co dopadá na životní prostředí a má vliv na život společnosti
-![Křížovka]()
+![Křížovka](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/%C5%98%C3%ADzen%C3%AD%20rizik/image01.png)
+
+#### 8. Doplňte do obrázku místo managementu rizika v systému krizového managementu.
+1. Management rizik
+2. Plánování
+3. Organizace
+4. Management zásahu
+5. Kontrolní činnost
+![Místo managementu rizika](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/%C5%98%C3%ADzen%C3%AD%20rizik/image02.png)
