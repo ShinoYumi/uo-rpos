@@ -7,12 +7,12 @@
 2.  Mezi hmotná aktiva patří ***lidé/nemovitosti/majetek/...***
 3. Usmrcení osoby je ***dopad*** nežádoucí události.
 4. Sklad nebezpečných látek představuje zdroj ***nebezpečí***.
-5. ***Nejistota* **vyjadřuje pochynost.
-6. ***Expozice* **vystavení aktiva působení faktorů prostředí nebo účinkům látky.
+5. ***Nejistota***vyjadřuje pochynost.
+6. ***Expozice***vystavení aktiva působení faktorů prostředí nebo účinkům látky.
 7. Slabina analyzovaného systému je označována jako **"zranitelnost"**.
    - Doplňte příklad: špatná měnová politika
 8. Zdroje ***vnitřních*** rizik se nalézají uvnitř subjektu.
-9. ***Aktiva* **označují vše, co má pro organizaci či společnost hodnotu, která může být zmenšena působením nebezpečí.
+9. ***Aktiva***označují vše, co má pro organizaci či společnost hodnotu, která může být zmenšena působením nebezpečí.
 10. ***Dopad*** představuje nepříznivý učínek nežádoucí události v daném místě a čase na chránená aktiva a zájmy.
 11. ***Domino efekt*** se rozumí možná eskalace událostí, kdy událost u jednoho objektu nebo zařízení může být příčinou vzniku události u jiného objektu či zařázení, čimž může dojít ke zvýšení pravděpodobnosti vzniku závažné havárie včetně zvýšení jejich dopadů.
 12. ***Hrozba*** je přirodní nebo člověkem podmíněný proces představující schopnost zdroje hrozby být aktivován a způsobit škoda.
