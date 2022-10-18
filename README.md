@@ -6,7 +6,9 @@ Primárním cílem je
 
 Seznam předmětů:
 https://apl.unob.cz/StudijniProgramy/Studium/17/Rizeni-a-pouziti-ozbrojenych-sil
+
 Obsah gitu:
+
 Plánované předměty (v procesu)
 1. Právo bezpečnosti a obrany (vypracované otázky + seznam)
 2. Pravděpodobnost a statistika (tipy)
