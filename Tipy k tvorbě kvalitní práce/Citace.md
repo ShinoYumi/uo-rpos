@@ -10,5 +10,4 @@ Knihovna Jiřího Mahena: https://www.kjm.cz/
 PDF Drive: https://www.pdfdrive.com/
 Research Gate: https://www.researchgate.net/
 Google Scholar: https://scholar.google.com/
-Project Muse: https://muse.jhu.edu/
 ...
