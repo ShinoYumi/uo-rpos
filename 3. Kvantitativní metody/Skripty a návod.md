@@ -1,0 +1,1 @@
+##https://k101.unob.cz/~neubauer/statistikaII.html
