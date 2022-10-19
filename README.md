@@ -8,16 +8,13 @@ Seznam předmětů:
 https://apl.unob.cz/StudijniProgramy/Studium/17/Rizeni-a-pouziti-ozbrojenych-sil
 
 Obsah gitu:
+1. Pravděpodobnost a statistika (tipy, aplikace, vzorové testy)
+2. Kvantitativní metody (skripty, tipy a vzorové testy)
+3. Řízení zdrojů ozbrojených sil (vypracované testy a otázky)
+4. Řízení rizik (pracovní listy a vzory)
+5. Mezinárodní humanitární právo (literatura a tipy)
 
-Plánované předměty (v procesu)
-1. Právo bezpečnosti a obrany (vypracované otázky + seznam)
-2. Pravděpodobnost a statistika (tipy)
-3. Kvantitativní metody (skripty, tipy a vzorové testy a práce)
-4. Řízení zdrojů ozbrojených sil (vypracované testy a otázky)
-5. Řízení rizik (pracovní listy a vzory)
-6. Mezinárodní humanitární právo (literatura a tipy)
-
-Diplomová práce (tipy)
+Tipy k tvorbě kvalitní práce
 
 
 Požadavek po čtenářích:
