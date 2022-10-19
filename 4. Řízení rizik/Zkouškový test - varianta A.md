@@ -239,5 +239,15 @@
     - b) Ne
 ## ***Doplňte slovo, číslo nebo spojení slov. Celkem 20 bodů.***
 
-61. Zákon č. ***<239/2000Sb.>*** definuje mimo jiné mimořádné události, záchranné a likvidační práce, ochranu obyvatelstva, věcnou a osobní pomoc, specifikuje použití a složky systému, postavení a úkoly ústředních a územních orgánů, organizaci záchranných a likvidačních prací v místě zásahu, práva a povinností právnických, podnikajících fyzických osob a fyzických osob při mimořádných událostech (1 bod)
-62. Úkolem krizového managementu 
+61. Zákon č. ***< 239/2000Sb. >*** definuje mimo jiné mimořádné události, záchranné a likvidační práce, ochranu obyvatelstva, věcnou a osobní pomoc, specifikuje použití a složky systému, postavení a úkoly ústředních a územních orgánů, organizaci záchranných a likvidačních prací v místě zásahu, práva a povinností právnických, podnikajících fyzických osob a fyzických osob při mimořádných událostech (1 bod)
+62. ***< HROZBA >*** je vnější činitel, který může poškodit nějakou konkrétní hodnutu. (1 bod)
+63. Úkolem krizového managementu je omezovat možnosti vzniku krizových situací a v případě jejich vzniku ***< MINIMALIZOVAT >*** jejich důsledky. (1 bod)
+64. ***< MATERIÁLNÍ ZÁKLADNA HUMANITÁRNÍ POMOCI >*** je zařázení vytvořené za účelem zabezpečení základních životnch potřeb obyvatelstva pro nouzové přezití až 450 osob. (1 bod)
+65. ***< KRAJSKÉ VOJENSKÉ VELITELSTVÍ >*** sehrává v systému doplňování ozbrojených sil ČR a v tvorbě a zabezpečení aktivních záloh významnou roli, protože vyplácí odměny a náhrady za výkon vojenských cvičení a zabezpečuje vytvářenou jednotku doplňovanou vojáky v aktivní záloze ve své podřízenost. (1 bod)
+66. Aktivace ***< ÚSTŘEDNÍHO KRIZOVÉHO ŠTÁBU >*** se provádí v případě hrozby vzniku nebo po vzniku krizové situace nebo jiné závažné situace, která se dotýká bezpečnostních zájmů ČR. (1 bod)
+67. Stav ohrožení státu vyhlašeuje ***< PARLAMENT >*** na návrh ***< VLÁDY >*** v případě, že je bezprostředně ohrožena svrchovanost státu nebo územní celistvosti státu, nebo jeho demokratické zásady. (2 body)
+68. Základním způsobem vyžadování sil a prostředků AČR je cestou ***< OPIS >*** HZS kraje. Požadavek je dále na ***< SOC MO >***, který jako prvek velení a řížení AČR spolupracuje se všemi organizačními útvary MO, od nichž jsou vyčlěňováni síly a prostředky pro řešení krizových situací. (2 body)
+69. Zabezpečení ochrany ***< OBJEKTŮ MOŽNÉHO NAPADENÍ >***/ OBJEKTŮ ZVLÁŠTNÍCH PRACÍ silami a prostředky AČR se v míru PROVÁDÍ / ***< NEPROVÁDÍ >***, protože by se tyto objekty v souladu s mezinárodním humanitárním právem mohly stát zprostředkovaně (přítomnost vojáků na nich nebo v jejich blízkosti) legitimním vojenským cílem. (2 body)
+70. Plán obrany zpracovává ústřední orgán státní správy, a to ***< MINISTERSTVO OBRANY >*** a následně ho schvaluje ***< VLÁDA >***. (2 body)
+71. Obranná infrastruktura se z hlediska působnosti člení na ***< VOJENSKOU >*** infrastrukturu a ***< NEVOJENSKOU >*** infrastrukturu, přičemž nevojenská infrastruktura má úzký vztah s kritickou infrastrukturou. (2 body)
+72. Při hrozbě vzniku krizové situace a po vyhlášení nouzového stavu, stavu ohrožení státu nebo válečného stavu ***BEZPEČNOSTNÍ RADA STÁTU*** 

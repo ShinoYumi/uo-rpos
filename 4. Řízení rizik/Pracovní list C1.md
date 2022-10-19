@@ -2,21 +2,21 @@
 
 #### 1. Doplňte správný pojem a případně příklad.
 
-1.  ***Nebezpečí*** ekvivalent pojmu hrozba.
+1. ***Nebezpečí*** ekvivalent pojmu hrozba.
    - Doplňte příklad: Utonutí v bazénu
-2.  Mezi hmotná aktiva patří ***lidé/nemovitosti/majetek/...***
-3. Usmrcení osoby je ***dopad*** nežádoucí události.
-4. Sklad nebezpečných látek představuje zdroj ***nebezpečí***.
-5. ***Nejistota*** vyjadřuje pochynost.
-6. ***Expozice*** vystavení aktiva působení faktorů prostředí nebo účinkům látky.
-7. Slabina analyzovaného systému je označována jako **"zranitelnost"**.
+2. Mezi hmotná aktiva patří ***lidé/nemovitosti/majetek/...***
+2. Usmrcení osoby je ***dopad*** nežádoucí události.
+3. Sklad nebezpečných látek představuje zdroj ***nebezpečí***.
+4. ***Nejistota*** vyjadřuje pochynost.
+5. ***Expozice*** vystavení aktiva působení faktorů prostředí nebo účinkům látky.
+6. Slabina analyzovaného systému je označována jako **"zranitelnost"**.
    - Doplňte příklad: špatná měnová politika
-8. Zdroje ***vnitřních*** rizik se nalézají uvnitř subjektu.
-9. ***Aktiva*** označují vše, co má pro organizaci či společnost hodnotu, která může být zmenšena působením nebezpečí.
-10. ***Dopad*** představuje nepříznivý učínek nežádoucí události v daném místě a čase na chránená aktiva a zájmy.
-11. ***Domino efekt*** se rozumí možná eskalace událostí, kdy událost u jednoho objektu nebo zařízení může být příčinou vzniku události u jiného objektu či zařázení, čimž může dojít ke zvýšení pravděpodobnosti vzniku závažné havárie včetně zvýšení jejich dopadů.
-12. ***Hrozba*** je přirodní nebo člověkem podmíněný proces představující schopnost zdroje hrozby být aktivován a způsobit škoda.
-13. ***Stakesholders*** označuje všechny aktéry, kteří ovlivňují organizaci a které naopak ovlivňuje organizace. Zároveň sem patří všichni, jenž přišli s organizací do přímého či nepřímého kontaktu.
+7. Zdroje ***vnitřních*** rizik se nalézají uvnitř subjektu.
+8. ***Aktiva*** označují vše, co má pro organizaci či společnost hodnotu, která může být zmenšena působením nebezpečí.
+9.  ***Dopad*** představuje nepříznivý učínek nežádoucí události v daném místě a čase na chránená aktiva a zájmy.
+10. ***Domino efekt*** se rozumí možná eskalace událostí, kdy událost u jednoho objektu nebo zařízení může být příčinou vzniku události u jiného objektu či zařázení, čimž může dojít ke zvýšení pravděpodobnosti vzniku závažné havárie včetně zvýšení jejich dopadů.
+11. ***Hrozba*** je přirodní nebo člověkem podmíněný proces představující schopnost zdroje hrozby být aktivován a způsobit škoda.
+12. ***Stakesholders*** označuje všechny aktéry, kteří ovlivňují organizaci a které naopak ovlivňuje organizace. Zároveň sem patří všichni, jenž přišli s organizací do přímého či nepřímého kontaktu.
  - Doplňte příklad: studenti, zákazníci, zaměstnanci
 14. S rizikem jsou spojeny předpoklady ***neurčitého*** výsledku a aspoň jeden z možných výsledků je ***nežádoucí*** a aspoň jeden ***příznivý***.
 15. ***Protiopatření*** spočívá v návrhu a následné realizaci protiopatření na redukci či eliminaci rizika.
@@ -157,7 +157,7 @@ Hrozba => Riziko
 13. Osoba nebo organizace, která může mít vliv na rozhdnutí nebo činnost, může být jími ovlivňována nebo se může vnímat, že je rozhodnutím nebo činností ovlivňována.
 14. Systematické uplatňování politik, postupů a praktik managementu organizace při řešení úkolů týkajících se posuzování a ovládání rizik.
 15. Zmenšení rizika posloupnosti vývoje nežádoucí události působením na zdroj hrozby preventivní cestou snížením pravděpodobnosti jeho aktivace nebo dopadů již vzniklé nežádoucí události.
- # Tajenka odpověďi
+ # Tajenka
 1. BEZPEČNOST
 2. REFERENČNÍ ÚROVEŇ
 3. HAVÁRIE
@@ -173,7 +173,7 @@ Hrozba => Riziko
 13. STAKEHOLDER
 14. MANAGEMENT RIZIK
 15. ZMÍRŇOVÁNÍ RIZIKA
-# Tajenka: **Enviromentální** rizika
+# Tajenka znění: **Enviromentální** rizika
 = Všechno co dopadá na životní prostředí a má vliv na život společnosti
 
 ![Křížovka](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/4.%20%C5%98%C3%ADzen%C3%AD%20rizik/image01.png)

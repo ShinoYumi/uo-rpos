@@ -1,1 +1,2 @@
-##https://k101.unob.cz/~neubauer/statistikaII.html
+### Všechny skripty, návody a důležité pomůcky pro úspěšné zvládnutí předmětu "Kvantitativní metody" jsou veřejně a zdarma publikovány garantem předmětu doc. Neubauerem na jeho osobní stránce.
+https://k101.unob.cz/~neubauer/statistikaII.html
