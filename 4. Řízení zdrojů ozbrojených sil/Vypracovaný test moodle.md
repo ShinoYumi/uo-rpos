@@ -4,14 +4,14 @@
 3.	Letecká radionavigační služba se zabývá: ***poskytováním včasného, komplexního a bezpečného leteckého, radionavigačního zabezpečení ve stanovených prostorech odpovědnosti za normálních i stižených meteorologických podmínek ve dne i v noci***
 4.	Jaká je časově nejnáročnější údržba nebo příprava techniky u jednotky? ***příprava techniky pro použití v letním a zimním období***
 5.	V čem spočívá účelnost vynakládaných disponibilních zdrojů? ***dosažené výsledky odpovídají stanovené a prokázané potřebě***
-6.	Mezi povinnosti velitele vozidla (pokud to není současně řidič) nepatří:*** vyplnit Knihu provozu (jízd)***
-7.	V čem spočívá hospodárnost vynakládaných disponibilních zdrojů?*** zdroje jsou k dispozici ve správnou dobu, dostatečném množství, v přiměřené kvalitě a za výhodnou cenu***
-8.	Řízení zdrojů v podmínkách ozbrojených sil zahrnuje zdroje:*** personální, materiální, technické, informační, finanční, infrastrukturu o doplněné znalosti, dovednosti a schopnosti***
+6.	Mezi povinnosti velitele vozidla (pokud to není současně řidič) nepatří: ***vyplnit Knihu provozu (jízd)***
+7.	V čem spočívá hospodárnost vynakládaných disponibilních zdrojů? ***zdroje jsou k dispozici ve správnou dobu, dostatečném množství, v přiměřené kvalitě a za výhodnou cenu***
+8.	Řízení zdrojů v podmínkách ozbrojených sil zahrnuje zdroje: ***personální, materiální, technické, informační, finanční, infrastrukturu o doplněné znalosti, dovednosti a schopnosti***
 9.	Pitná voda v nádrži se nesmí skladovat déle než: ***48 hodin***
 10.	Kdy a kdo provádí kontrolní prohlídku vozidla?  - ***provádí řidič vozidla před použitím a v průběhu používání vozidla (Provádí řidič nebo velitel osádky)***
 11.	V čem spočívá nedělitelná pravomoc velitele? ***Velitel je oprávněn a povinen v rozsahu své působnosti vydávat rozkazy, stanovovat a činit opatření a využívat takové prostředky v mezích zákonů a vojenských předpisů, které uzná za nutné, vhodné a dostačující ke splnění úkolu***
 12.	Která služba nepatří do služeb logistiky? **Služba zásobování náhradními díly**
-13.	Kam zapíše příslušník Vojenské policie kontrolu vozidla, které zastavil?  *Do knihy provozu (jízd) *
+13.	Kam zapíše příslušník Vojenské policie kontrolu vozidla, které zastavil?  ***Do knihy provozu (jízd)***
 14.	Všeobecná spotřeba pitné vody v litrech na osobu na den je: ***75 litrů***
 15.	Jak často kontrolujete jako velitel čety provedení a stav údržby po použití vojenské techniky?  - ***Denně***
 16.	4 klíčová slova zabezpečení PHM jsou: ***Včas, plynule, množství, kvalita***
@@ -58,7 +58,7 @@
 56.	Výdej stravy charakterizuje: ***Podávání hotového jídla v předepsané teplotě z nádob nebo zařízení určených k výdeji stravy ke konzumaci strávníkům***
 57.	Dodržovat zásady ochrany životního prostředí je povinností: ***Každého jednotlivce v rámci svých schopností a možností***
 58.	Co jsou to měsíční výstrojní náležitosti? ***Jsou určeny na pořízení a obnovení vojenské výstroje určené do vlastnictví vojákovi. Za tímto účelem se vojákovi zřizuje elektronické konto měsíčních výstrojních náležitostí v informačním systému logistiky, popřípadě se vojákovi vydají poukázky na vydání vojenské výstroje, pokud nelze zřídit elektronické konto***
-59.	Pojem decentrální nabývání majetku lze vysvětlit jako:*** Nabývání majetku v režimu veřejných zakázek malého rozsahu, které realizuje daný organizační celek z vlastních rozpočtových prostředků. Zadávajícím je velitel daného organizačního celku ***
+59.	Pojem decentrální nabývání majetku lze vysvětlit jako: ***Nabývání majetku v režimu veřejných zakázek malého rozsahu, které realizuje daný organizační celek z vlastních rozpočtových prostředků. Zadávajícím je velitel daného organizačního celku***
 	Decentrálním způsobem lze zadávat zakázky do 2 mil. Kč bez DPH, přičemž celkovou výší budoucího peněžitého závazku se rozumí limit finančních prostředků, který je vyčleněn na nabytí majetku a nákup služeb srovnatelného nebo stejného druhu v daném rozpočtovém období u zadavatele a není-li předmětem zakázky nákup dlouhodobého hmotného a nehmotného majetku. Tyto nákupy nepodléhají schválení v akvizičním plánu.
 	Decentrální nabývání majetku představuje proces pořizování majetku a služeb definované v rozkaze Ministra obrany (RMO) č. 52/2013. Decentrální pořizování majetku a služeb se dosud řeší dvěma způsoby, dle nichž se odvíjí rozsah zpracované a zakládané dokumentace
 	veřejné zakázky nepatrného rozsahu, veřejné zakázky malého rozsahu
@@ -81,7 +81,7 @@
 75.	Nejvýše postaveným organizačním útvarem MO zodpovědným za proces hospodaření s majetkem státu je: Majetkový hospodář: ***ředitel Sekce logistiky MO***
 76.	Jakou aktivitou začíná a jakou končí proces hospodaření s majetkem státu z pohledu životního cyklu dané položky majetku? -  ***Začíná nabýváním majetku a končí vhodným způsobem nakládání s nepotřebným majetkem***
 77.	Za kvalifikační předpoklad je podle RMO č. 2/2019 Věstníku Zásady tvorby systemizovaných míst považováno: Z***ískané vzdělání stanovené pro výkon služby v příslušném služebním zařazení***
-78.	Za kvalifikační požadavek je podle RMO č. 2/2019 Věstníku Zásady tvorby systemizovaných míst považováno:*** Vojenský kariérový kurz vztahující se k příslušné hodnosti, jazyk, a další (např. příslušná bezpečnostní prověrka, aj.)***
+78.	Za kvalifikační požadavek je podle RMO č. 2/2019 Věstníku Zásady tvorby systemizovaných míst považováno:***Vojenský kariérový kurz vztahující se k příslušné hodnosti, jazyk, a další (např. příslušná bezpečnostní prověrka, aj.)***
 79.	Podkladem pro služební hodnocení vojáka z povolání jsou: *Hodnocení výsledků výcviku, hodnocení výsledků vojáka v rámci jeho přípravy nebo při plnění zvláštních úkolů za hodnocené období, hodnocení plnění služebních úkolů v zahraniční operaci nebo hodnocení na závěr kariérových anebo odborných kurzů a písemné ověření znalostí právních a vnitřních předpisů a znalostí vojensko-odborných témat (+které, souvisejí s výkonem služby hodn. Vojáka)*
 80.	Ve kterém případu musíte být ve vojenském vozidle připoutáni: Když při přepravě zbraní kontrolujete připravenost svojí zbraně ke střelbě 
 Nemusí být připoutána osoba:
@@ -100,11 +100,11 @@ Nemusí být připoutána osoba:
 88.	Proces plánování se dělí na: ***Sběr informací, zhodnocení informací, alternativní plány rozhodnutí, kontrola***
 89.	Které z níže uvedených metod nevychází z konceptu tzv. „projevených preferencí“: ***Kontingentní oceňování***
 90.	Určete pořadí vhodnosti použití níže uvedených metod pro oceňování lidského života
-***	1. Hodnocení lidského kapitálu 
+	1. Hodnocení lidského kapitálu 
 	2. Averzní výdaje
 	3. Kvalitou přepočtený rok života
 	4. Legislativní stanovení hodnoty lidského života.
-V PDF – Metoda ztracené produkce – důchodu (Hodnocení lidského kapitálu), Metoda ztracené spotřeby, Averzní výdaje, legislativní stanovení hodnoty lidského života***
+V PDF – Metoda ztracené produkce – důchodu (Hodnocení lidského kapitálu), Metoda ztracené spotřeby, Averzní výdaje, legislativní stanovení hodnoty lidského života
 91.	Posuďte pravdivost následujícího výroku. Jako odpověď uveďte termín „Pravda“ nebo „Nepravda“. „Analýza nákladů a užitků patří do skupiny plnohodnotných, více kriteriálních metod ekonomických analýz, které je možné využít v jako podpůrný nástroj řízení zdrojů v OS.: ***Pravda (Existují 4 druhy analýz: analýza nákladů a užitků, minimalizace nákladů, nákladů a efektivnost, nákladů a užitečnosti)***
 92.	Kdo je hodnotitel vojáka z povolání? ***Přímý nadřízený***
 100. Může se voják z povolání odvolat proti služebnímu hodnocení? ***Ano***
@@ -112,7 +112,7 @@ V PDF – Metoda ztracené produkce – důchodu (Hodnocení lidského kapitálu
 102. Příkazce operace je: ***Velitel samostatného vojenského zařízení, podniku nebo příspěvkové organizace***
 103. Služební hodnocení vojáka je podkladem pro: ***Odměňování, kariéru (stanovování pořadí do vyšší hodnosti), vzdělávání a rozvoj***
 104. Které z níže uvedených typů nákladů a užitků by se zpravidla neměly do realizované analýzy nákladů a užitků zahrnovat? ***– Peněžní (Slabá stránka – CBA neuvažuje vliv na ekonomickou návratnost nákladů a výnosů, jež nelze vyjádřit finančně.)***
-105. Funkce správce rozpočtu a hlavní účetní jsou:*** Na Agentuře finanční a jejích odborech.***
+105. Funkce správce rozpočtu a hlavní účetní jsou: ***Na Agentuře finanční a jejích odborech.***
 106. Působnost služebních orgánů v personální práci je zakotvena v Rozkazu ministra obrany: ***64/2015***
 107. Posuďte pravdivost následujícího výroku. Jako odpověď uveďte termín „Pravda“ nebo „Nepravda“. „Analýza nákladů a užitků se skládá z dvoufázové kalkulace projektu, tedy z finanční a ekonomické analýzy: ***Pravda***
 108.  FIS, ISSP je: ***Finanční informační systém Informační systém o službě a personálu***
@@ -125,18 +125,18 @@ V PDF – Metoda ztracené produkce – důchodu (Hodnocení lidského kapitálu
 115. Plánování v resortu obrany ČR je zaměřeno na: ***Cílově Orientované plánování***
 116. Vysvětlete zásady vedení hodnotícího pohovoru (co by měl hodnotitel): ***S časovým předstihem oznámit hodnocenému termín hodnotícího pohovoru, zajisti klidné, ničím a nikým nerušené místo a čas, nechat čas na přípravu, naslouchat a ptát se, chválit konkrétní věci, nevnucovat své myšlenky, stanovit návrhy a opatření ke zlepšení***
 117. Velmi náročné oceňování nehmotných nákladů a užitku produkovaných hodnocenými veřejnými projekty je hlavní nevýhodou, které z níže uvedených metod? - ***Analýza nákladů a užitků***
-118. V jakých oblastech jsou vojáci z povolání vzdělávání? -*** Kvalifikační předpoklad, kvalifikační požadavek, výcvik, výchova, rekvalifikace***
+118. V jakých oblastech jsou vojáci z povolání vzdělávání? - ***Kvalifikační předpoklad, kvalifikační požadavek, výcvik, výchova, rekvalifikace***
 119. Stanovte cíle řízení lidských zdrojů: ***Zajištění cílů zaměstnavatele, udržení efektivních zaměstnanců, zvyšování motivace a oddanosti zaměstnanců, udržovat pracovní vztahy (Podle Armstronga)***
 120. Typ analýzy, u níž vyjádření výstupu je dán očekávanou úrovní požadovaného užitku se nazývá: ***Analýza minimalizace nákladů (CMA)***
-121. Pod IISSP rozumíme:*** Informační systém pro plánování, rozpočtování, vyhodnocování a kontrolu SR***
+121. Pod IISSP rozumíme: ***Informační systém pro plánování, rozpočtování, vyhodnocování a kontrolu SR***
 122. Resort Ministerstva obrany zřizuje tyto instituce, organizace: ***Organizační složky státu, příspěvkové organizace a státní podniky***
 123. Požární ochrana patří k hlavním činnostem z hlediska: ***Zabezpečení ochrany života, zdraví a majetku před požáry***
 124. Státní závěrečný účet hodnotí: ***Plnění rozpočtu v resortu za uplynulé období, uplynulý rok***
 125. Objasněte, jaký je hlavní cíl v oblasti přípravy personálu v resortu MO: ***Hlavním cílem přípravy je občanský zaměstnanec…***
-126. Mezi základní charakteristiky Analýzy nákladů a užitků nepatří: ***Vyjadřuje ve finančních jednotkách pouze náklady ***
+126. Mezi základní charakteristiky Analýzy nákladů a užitků nepatří: ***Vyjadřuje ve finančních jednotkách pouze náklady***
 127. Vyjmenujte prioritní činnost personální řízení v resortu MO: ***Získávání vojenského a civilního personálu, jeho udržení ve služebním a zaměstnaneckém poměru, na soustavné vytváření podmínek pro jeho osobnostní i profesní rozvoj a pro jeho činnost. Při tom jsou uplatňovány zásady rovných příležitostí. Napomáhá vytváření optimálních sociálních podmínek pro vojáky a občanské zaměstnance jak během služebního či pracovního poměru, tak i po jeho skončení.***
 128. Na jaké oblasti se hodnotitel zaměřuje při hodnocení občanského zaměstnance v resortu MO? ***Kvalitu a včasnost splnění úkolů, schopnost zorganizovat si svoji práci, samostatnost, tvůrčí přístup, schopnost vnímat či uplatnit související problematiky, smysl pro součinnost, spolehlivost, stanovení priorit apod.; schopnost efektivního využití času a prostředků; schopnost vést podřízené; kultivovanost vystupování, ústní a psaný projev; přehled a schopnost správné aplikace právních předpisů a interních aktů řízení; postoj k sebevzdělávání a osobnostnímu rozvoji.***
-129. V jakých normách a resortních dokumentech je zakotvena oblast služebního hodnocení vojáků z povolání?*** V zákoně 221/1999 Sb., vyhlášce 189/2015 Sb., o postupu při služebním hodnocení vojáků z povolání a jeho hlediscích a Metodice služebního hodnocení vojáků z povolání (2015).***
+129. V jakých normách a resortních dokumentech je zakotvena oblast služebního hodnocení vojáků z povolání? ***V zákoně 221/1999 Sb., vyhlášce 189/2015 Sb., o postupu při služebním hodnocení vojáků z povolání a jeho hlediscích a Metodice služebního hodnocení vojáků z povolání (2015).***
 130. Vysvětlete, v jakých oblastech jsou vzděláváni občanští zaměstnanci resortu MO vzdělávání občanských zaměstnanců je prohlubování znalostí a rozvíjení dovedností a kompetencí nezbytných pro výkon jejich pracovních činností. Do vzdělávání občanských zaměstnanců patří: ***Vstupní vzdělávání, odborná příprava, jazykové vzdělávání, manažerské vzdělávání***
 131. Rozdíl mezi peněžními a reálnými náklady a užitky spočívá v: ***Charakteru jejich dopadu***
 132. Objasněte rozdíl mezi kvalifikačním předpokladem a kvalifikačním požadavkem: ***Kvalifikační požadavek je vojenský kariérový kurz vztahující se k příslušné hodnosti, jazyk, a další (např. příslušná bezpečnostní prověrka, aj.) kvalifikační předpoklad je získané vzdělání stanovené pro výkon služby v příslušném služebním zařazení.***
