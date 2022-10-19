@@ -44,31 +44,40 @@ Střelec střílí nezávisle 10krát na terč. Pravděpodobnost zásahu terče 
 V jisté nemocnici bylo náhodně vybráno 50 novorozenců u nichž byla,  mimo jiné, sledována porodní hmotnost (v gramech) a věk matky (v letech) narozeného dítěte. Na základě tohoto náhodného výběru byla spočtena průměrná hmotnost novorozence 3496,08g a směrodatná odchylka hmotnosti 502,688g. Podobně průměrný věk matky 25,38 let a směrodatná odchylka věku 4,522 let.
 Určete:
 - a) 95% interval spolehlivosti pro hmotnost novorozenců
-   - ***Postup:*** výpočet dat za pomocí Stat1 záložka 1V – normální > výpočty z charakteristik
+   - ***Postup:*** výpočet dat za pomocí ***aplikace Stat1***
+   - => záložka 1V – normální > výpočty z charakteristik
 
-![Postup příklad 3/1]()
+![Postup příklad 3/1](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/1.%20Pravd%C4%9Bpodobnost%20a%20statistika/image01.png)
+- Modrá barva = náš výsledek
+- Hnědá barva = co zadáváme
+- ***Slovní odpověď:*** S 95% pravděpodobností se váha dítěte nachází v rozmezí od 3489,708 g do 3502,45g.
 
+b) S 95% spolehlivostí dolní hranici pro střední hodnotu věku matky. 
 
+   - ***Postup:*** Výpočet dat za pomocí ***aplikace Stat1***
+   - => záložka 1V – normální > výpočty z charakteristik
 
-Modrá barva = náš výsledek
-Hnědá barva = co zadáváme
-Slovní odpověď: S 95% pravděpodobností se váha dítěte nachází v rozmezí od 3489,708 g do 3502,45g.
+![Postup příklad 3/2](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/1.%20Pravd%C4%9Bpodobnost%20a%20statistika/image02.png)
 
-b)	S 95% spolehlivostí dolní hranici pro střední hodnotu věku matky. 
-O: Výpočet dat za pomocí Stat1 záložka 1V – normální > výpočty z charakteristik
+- Modrá barva = náš výsledek
+- Hnědá barva = co zadáváme
+- ***Slovní odpověď:*** S 95% pravděpodobností je dolní hranice střední hodnoty věku matky dítěte 24,876 let.
 
-![Postup příklad 3/2]()
-
-Modrá barva = náš výsledek
-Hnědá barva = co zadáváme
-Slovní odpověď: S 95% pravděpodobností je dolní hranice střední hodnoty věku matky dítěte 24,876 let.
-
-Příklad 4
+## Příklad 4
 V tabulce jsou uvedeny hmotnosti samců a samic vlka (v kg).
-Samice	28	38	41	32	35	31	33			
-Samec	32	42	46	38	40	53	39	42	39	48
 
-a)	Zjistěte. Zda lze obecně očekávat vyšší tělesnou hmotnost u samců nez u samic. Test proveďte na hladině významnosti a=0,05. Předpokládejme, že se jedná o náhodné výběry z normálního rozdělení.
-O:Výpočet dat za pomocí Stat1, vložit do data > záložka 2V – normální
-Modrá barva = náš výsledek hnědá barva = co zadáváme 
-Slovní odpověď: S pravděpodobností 95% můžeme říci, že váha samců vlka je statisticky významněji větší, než váha samice vlka.
+|Samice|28|38|41|32|35|31|33|
+|---|---|---|---|---|---|---|---|
+|Samec|32|42|46|38|40|53|39|42|39|48|
+
+- a)Zjistěte, zda lze obecně očekávat vyšší tělesnou hmotnost u samců než u samic. Test proveďte na hladině významnosti a=0,05. Předpokládejme, že se jedná o náhodné výběry z normálního rozdělení.
+- ***Postup:*** Výpočet dat za pomocí ***aplikace Stat1***
+- záložka data (vložit data) > záložka 2V – normální
+
+![Postup příklad 3/2](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/1.%20Pravd%C4%9Bpodobnost%20a%20statistika/image03.png)
+
+
+- Hnědá barva = co zadáváme 
+- Modrá barva = náš výsledek
+
+***Slovní odpověď:*** S pravděpodobností 95% můžeme říci, že váha samců vlka je statisticky významněji větší, než váha samice vlka.
