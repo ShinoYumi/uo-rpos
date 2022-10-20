@@ -292,40 +292,48 @@ TŘETÍ TEST:
 	- B) ***Ne, v žádném případě***
 	- C) Ano, pokud tak činí protivník
 20) Přiřaďte význam příslušnému symbolu a určete jejich barvy:
-	- A) Zdravotnický (duchovní) personál
   
-![Zdravotnický personál](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/image01.png)
+![Zdravotnický personál](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/grafika/image01.png)
 
-![Zdravotnický personál 2](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/image03.png)
+![Zdravotnický personál 2](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/grafika/image02.png)
 
-	- B) Kulturní památka obecné ochrany
-
-![Kulturní památka obecné ochrany](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/image03.png)
-
-![Kulturní památka obecné ochrany 2](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/image04.png)
-
-	- C) Civilní ochrana
-
-![Civilní ochrana](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/image05.png)
-
-![Civilní ochrana 2](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/image06.png)
-
-	- D) Tábor válečných zajatců
-
-![Tábor válečných zajatců](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/image07.png)
-
-	- E) Nebezpečné síly
-
-![Nebezpečné síly](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/image08.png)
-
-![Nebezpečné síly](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/image09.png)
-
-	- F) Vyjednávání
-
-![Vyjednávání](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/image06.png)
+    - A) Zdravotnický (duchovní) personál (č.2)
 
 
-	- G) Nemocniční zóna
+![Kulturní památka obecné ochrany](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/grafika/image03.png)
+
+![Kulturní památka obecné ochrany 2](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/grafika/image04.png)
+
+    - B) Kulturní památka obecné ochrany (č.3)
+
+![Civilní ochrana](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/grafika/image05.png)
+
+![Civilní ochrana 2](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/grafika/image06.png)
+
+	- C) Civilní ochrana (č. 5)
+
+
+![Tábor válečných zajatců](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/grafika/image07.png)
+
+	- D) Tábor válečných zajatců (č. 4)
+
+
+![Nebezpečné síly](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/grafika/image08.png)
+
+![Nebezpečné síly](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/grafika/image09.png)
+
+	- E) Nebezpečné síly (č. 6)
+
+
+![Vyjednávání](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/grafika/image10.png)
+
+![Vyjednávání 2](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/grafika/image11.png)
+
+	- F) Vyjednávání (č. 1)
+
  
-![Nemocniční zóna](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/image07.png)
+![Nemocniční zóna](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/grafika/image12.png)
 
+![Nemocniční zóna](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/5.%20Mezin%C3%A1rodn%C3%AD%20humanit%C3%A1rn%C3%AD%20pr%C3%A1vo/grafika/image13.png)
+
+    - G) Nemocniční zóna (č. 7)
