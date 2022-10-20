@@ -1,5 +1,6 @@
 # UO ŘPOS github
 Tento github slouží jako lidl návod s názvem "Jak projít unobem a nezbláznit se".
+- Všechny informace jsou veřejně publikovatelné a žádná z informací není pod stupňěm utajení, ani pro služební potřebu.
 
 Primárním cílem je
 - Shromáždit co nejvíce materiálů potřebných k úspěšnému zvládnutí prvních 3 let na UO, tedy společnému základu pro akreditovaný VŠ program ŘPOS 2019-2024.
