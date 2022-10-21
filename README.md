@@ -22,11 +22,11 @@ Tipy k tvorbě kvalitní práce
 
 
 Požadavek po čtenářích:
-- vytvořit "Issue" v případě špatné informace, chyby, překlepu v materiálech = vyřeším problém co nejdříve.
+- vytvořit "Issue" v případě špatné informace, chyby, překlepu v materiálech, nejlépe i se správnou odpověďí = vyřeší se co nejdříve.
 - podílet se materiály na doplnění sběrníku.
-- být diskrétní a snažit se neprovalit git akademické obci, pakliže se tak stane, tak git nenávratně ruším.
+- být diskrétní ohledně existence sběrníku (just like Fight club)
 
 
-Veškerý materiál je schválen k zveřejnění naším patronem mjr. Xínou, v případě nejasností se obraťte na něj.
+Veškerý materiál je schválen k zveřejnění naším patronem ***mjr. Ing. Josefem Xínou, dr. h. c. mult.***, v případě nejasností, či stížností se obraťte na něj.
 
 ![patron](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main//patron.jpg)
