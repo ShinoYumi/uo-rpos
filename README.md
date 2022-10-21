@@ -14,9 +14,9 @@ Obsah gitu:
 3. Řízení zdrojů ozbrojených sil (vypracované testy a otázky)
 4. Řízení rizik (pracovní listy a vzory)
 5. Mezinárodní humanitární právo (literatura a tipy)
-6. Ochrana proti zbraním hromadného ničení (test
-7. Management
-8. Válečné studie
+6. Ochrana proti zbraním hromadného ničení (test)
+7. Management (Materiály)
+8. Válečné studie (Materiály)
 
 Tipy k tvorbě kvalitní práce
 
