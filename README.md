@@ -29,4 +29,4 @@ Požadavek po čtenářích:
 
 Veškerý materiál je schválen k zveřejnění naším patronem mjr. Xínou, v případě nejasností se obraťte na něj.
 
-![patron](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main//patron.png)
+![patron](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main//patron.jpg)
