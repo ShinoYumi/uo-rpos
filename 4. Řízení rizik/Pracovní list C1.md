@@ -176,7 +176,7 @@ Hrozba => Riziko
 # Tajenka znění: **Enviromentální** rizika
 = Všechno co dopadá na životní prostředí a má vliv na život společnosti
 
-![Křížovka](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/4.%20%C5%98%C3%ADzen%C3%AD%20rizik/image01.png)
+![Křížovka](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/4.%20%C5%98%C3%ADzen%C3%AD%20rizik/grafika/image01.png)
 
 #### 8. Doplňte do obrázku místo managementu rizika v systému krizového managementu.
 1. Management rizik
@@ -185,4 +185,4 @@ Hrozba => Riziko
 4. Management zásahu
 5. Kontrolní činnost
    
-![Místo managementu rizika](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/4.%20%C5%98%C3%ADzen%C3%AD%20rizik/image02.png)
+![Místo managementu rizika](https://raw.githubusercontent.com/ShinoYumi/uo-rpos/main/4.%20%C5%98%C3%ADzen%C3%AD%20rizik/grafika/image02.png)
