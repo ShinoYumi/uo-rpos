@@ -78,7 +78,7 @@ Hrozba => Riziko
 
 #### 5. Rozdělte níže uvedená opatření na technická a organizační.
 
-1. adaptace designu => ***organizační opatření***
+1. adaptace designu => ***technická opatření***
 2. bezpečnostní zařízení => ***technická opatření***
 3. bioindikátory => ***technická opatření***
 4. doplňkové bezpečnostní prvky => ***technická opatření***
