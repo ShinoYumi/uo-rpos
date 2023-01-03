@@ -1,8 +1,7 @@
-# UO ŘPOS github
-Tento github slouží jako lidl návod s názvem "Jak projít unobem a nezbláznit se".
-- Všechny informace jsou veřejně publikovatelné a žádná z informací není pod stupňěm utajení, nebo určena pro služební potřebu.
+# UO ŘPOS FVL github
+Všechny informace jsou veřejně publikovatelné a žádná z informací není pod stupňěm utajení, nebo určena pro služební potřebu.
 
-Primárním cílem je
+Cíl
 - Shromáždit co nejvíce materiálů potřebných k úspěšnému zvládnutí prvních 3 let na UO, tedy společnému základu pro akreditovaný VŠ program ŘPOS 2019-2024.
 
 Seznam předmětů:
@@ -20,12 +19,10 @@ Obsah gitu:
 
 Tipy k tvorbě kvalitní práce
 
-
 Požadavek po čtenářích:
 - vytvořit "Issue" v případě špatné informace, chyby, překlepu v materiálech, nejlépe i se správnou odpověďí = vyřeší se co nejdříve.
 - podílet se materiály na doplnění sběrníku.
 - být diskrétní ohledně existence sběrníku (just like Fight club)
-
 
 Veškerý materiál je schválen k zveřejnění naším patronem ***mjr. Ing. Josefem Xínou, dr. h. c. mult.***, v případě nejasností, či stížností se obraťte na něj.
 
